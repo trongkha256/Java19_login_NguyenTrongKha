@@ -1,6 +1,6 @@
 package com.login.model;
 
-public class UserModel {
+public class UsersModel {
     private int id;
     private String email;
     private  String password;
